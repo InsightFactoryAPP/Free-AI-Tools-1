@@ -120,6 +120,13 @@ This repository is a practical collection of AI tools that are truly worth tryin
 - **Rating:** 8.3/10
 - **Link:** https://www.wordtune.com
 
+### Humanize-Text
+- **Category:** Open-source writing toolkit
+- **Best for:** configurable multi-stage rewriting
+- **Why use it:** Humanize-Text provides inspectable Python implementations of four text-humanization approaches, including a pipeline that combines LLM rewriting with cross-engine translation.
+- **Rating:** Community project
+- **Link:** https://github.com/lynote-ai/humanize-text
+
 ---
 
 ## Image Generation & Design
