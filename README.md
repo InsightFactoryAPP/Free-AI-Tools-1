@@ -85,6 +85,13 @@ This repository is a practical collection of AI tools that are truly worth tryin
 - **Rating:** 9.0/10
 - **Link:** https://www.grammarly.com
 
+### 7b. ResumeAI
+- **Category:** Resume / ATS
+- **Best for:** ATS checking, resume building
+- **Why use it:** ResumeAI offers a free ATS checker (3/day anonymous, 10/day with a free account) and AI resume builder, plus the State of ATS 2026 dataset (738 employers, Workday 37.9%).
+- **Rating:** 8.5/10
+- **Link:** https://withresumeai.com/
+
 ### 8. QuillBot
 - **Category:** Rewriting tool
 - **Best for:** paraphrasing, rewriting drafts
