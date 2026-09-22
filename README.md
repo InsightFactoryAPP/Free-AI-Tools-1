@@ -1,18 +1,26 @@
-# Free AI Tools
+<h1 align="center">Free AI Tools</h1>
 
-A curated list of useful AI tools for writing, design, coding, research, video, audio, and productivity.
+<p align="center">
+  A curated list of useful AI tools for writing, design, coding, research, video, audio, and productivity.<br>
+  <i>Clean, practical, and regularly updated.</i>
+</p>
 
-> Clean, practical, and regularly updated.
+<p align="center">
+  <img src="https://img.shields.io/badge/tools-50-2ea44f?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=24292e" alt="Tools">
+  <img src="https://img.shields.io/github/stars/redictor/Free-AI-Tools?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=f1c40f" alt="GitHub stars">
+  <img src="https://img.shields.io/github/last-commit/redictor/Free-AI-Tools?style=for-the-badge&logo=git&logoColor=white&labelColor=24292e&color=8e44ad" alt="Last commit">
+  <a href="https://github.com/redictor/Free-AI-Tools/issues/new?template=tool-suggestion.md">
+    <img src="https://img.shields.io/badge/suggest%20a%20tool-%2B-e67e22?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Suggest a tool">
+  </a>
+</p>
 
 > Last updated: September 2026
 
 ## A Brief Introduction
 
-For a long time, I’ve been running into the same problem: there are simply too many lists of AI tools out there—most of which are either outdated or full of fluff.
+For a long time, I’ve been running into the same problem: there are simply too many lists of AI tools out there, most of which are either outdated or full of fluff.
 
-So, I came up with the idea to create this simple, up-to-date list of AI tools!
-
-This repository is a practical collection of AI tools that are truly worth trying. It doesn't matter whether you write, design, program, study, edit videos, or are simply looking for ways to save time on routine tasks.
+So I made this one: a short, practical list of AI tools that are actually worth trying. Tools that shut down or lose their free access get removed or clearly marked, so the list stays useful. It doesn't matter whether you write, design, program, study, edit videos, or just want to save time on routine tasks.
 
 ## Contents
 
@@ -116,6 +124,7 @@ This repository is a practical collection of AI tools that are truly worth tryin
 - **Link:** https://www.copy.ai
 
 ### 12. Writesonic
+[Attention please! Paid plans only: from $79/month]
 - **Category:** SEO content and AI search visibility
 - **Best for:** SEO articles, tracking brand mentions in AI search
 - **Why use it:** Writesonic combines SEO article writing with tools that track how your brand appears in answers from ChatGPT, Perplexity, and Google AI Overviews. Useful for marketers who care about both classic search and AI search.
@@ -435,21 +444,35 @@ Tools are included based on:
 - ease of use
 - category relevance
 
-Ratings are subjective and meant as a quick guide, not absolute truth.
+**How to read the entries:**
+- **Rating** is subjective and meant as a quick guide, not absolute truth.
+- **Community project** means an open-source project that isn't rated.
+- Tools without a free plan are marked with a note under the name.
+- **Thanks** credits the person who suggested the tool.
 
 ---
 
 ## Contributing
 
-Suggestions are welcome.
+Suggestions are welcome!
 
-If you want to improve this list:
+The easiest way is to [open a tool suggestion](https://github.com/redictor/Free-AI-Tools/issues/new?template=tool-suggestion.md): the template is already filled in, you just replace the placeholders.
+
+If you want to edit the list directly:
 1. Fork the repository
 2. Add or improve a tool entry
 3. Open a pull request
 
 Please keep submissions:
-- useful
-- relevant
+- useful and relevant
 - well-known or genuinely promising
 - clearly categorized
+- honest about pricing (mention if there's no free plan)
+- not already in the list
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/redictor">redictor</a><br>
+  <sub>Contributors: <a href="https://github.com/Kayvan-Zahiri">Kayvan-Zahiri</a> · <a href="https://github.com/fendouai">fendouai</a> · <a href="https://github.com/futurearrived">futurearrived</a> · <a href="https://github.com/happynocode">happynocode</a></sub>
+</p>
